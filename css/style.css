@@ -47,16 +47,16 @@ div {
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px solid #ffffff;
-    border-left: 5px solid #ffffff;
+    border-bottom: 2px solid #ff0000;
+    border-left: 5px solid #ff0000;
 }
 
 .blue {
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-top: 2px solid #ffffff;
-    border-right: 5px solid #ffffff;
+    border-top: 2px solid #0000ff;
+    border-right: 5px solid #0000ff;
 }
 
 div.blue>h2,
@@ -68,8 +68,8 @@ div.blue>p {
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px solid #ffffff;
-    border-left: 5px solid #ffffff;
+    border-bottom: 2px solid #ffff00;
+    border-left: 5px solid #ffff00;
 }
 
 div.yellow>p {
@@ -80,8 +80,8 @@ div.yellow>p {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-top: 2px solid #ffffff;
-    border-right: 5px solid #ffffff;
+    border-top: 2px solid #008500;
+    border-right: 5px solid #008500;
 }
 
 footer {
